@@ -1,0 +1,12 @@
+.carousel-item {
+  height: 650px;
+}
+.carousel-item .display-4 {
+  margin-top: -270px;
+}
+.carousel-item h1{
+  font-weight: bold;
+}
+
+
+
